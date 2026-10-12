@@ -1,0 +1,7 @@
+version: 1
+project:
+  title: Mi análisis
+  toc:
+    - file: index.ipynb
+site:
+  template: book-theme
